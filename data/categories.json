@@ -1,0 +1,25 @@
+[
+    { "id": 1, "name": "Adventure" },
+    { "id": 2, "name": "Indie" },
+    { "id": 3, "name": "RPG" },
+    { "id": 4, "name": "Action" },
+    { "id": 5, "name": "Strategy" },
+    { "id": 6, "name": "Simulation" },
+    { "id": 7, "name": "Early Access" },
+    { "id": 8, "name": "Free to Play" },
+    { "id": 9, "name": "Massively Multiplayer" },
+    { "id": 10, "name": "Casual" },
+    { "id": 11, "name": "Violent" },
+    { "id": 12, "name": "Gore" },
+    { "id": 13, "name": "Aktion" },
+    { "id": 14, "name": "Sports" },
+    { "id": 15, "name": "Racing" },
+    { "id": 16, "name": "Abenteuer" },
+    { "id": 17, "name": "Strategie" },
+    { "id": 18, "name": "Simulationen" },
+    { "id": 19, "name": "Sexual Content" },
+    { "id": 20, "name": "Nudity" },
+    { "id": 21, "name": "Design & Illustration" },
+    { "id": 22, "name": "Utilities" }
+  ]
+  
