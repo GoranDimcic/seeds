@@ -1,13 +1,5 @@
 [
   {
-    "user_id": 1,
-    "first_name": "Maryse",
-    "last_name": "Krajcik",
-    "username": "dolly85",
-    "email": "corene_schamberger@gmail.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
     "user_id": 2,
     "first_name": "Tremayne",
     "last_name": "Klocko",
@@ -104,30 +96,6 @@
     "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
   },
   {
-    "user_id": 14,
-    "first_name": "Chauncey",
-    "last_name": "Auer",
-    "username": "zena_schmitt",
-    "email": "chesley.halvorson63@gmail.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
-    "user_id": 15,
-    "first_name": "Zella",
-    "last_name": "Anderson",
-    "username": "dortha56",
-    "email": "adeline_cormier11@hotmail.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
-    "user_id": 16,
-    "first_name": "Noemy",
-    "last_name": "Cummings",
-    "username": "asia_schmidt",
-    "email": "alejandra74@gmail.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
     "user_id": 17,
     "first_name": "Rosetta",
     "last_name": "Ruecker",
@@ -144,14 +112,6 @@
     "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
   },
   {
-    "user_id": 19,
-    "first_name": "Rickie",
-    "last_name": "Nitzsche",
-    "username": "graham.ullrich",
-    "email": "nels_heaney61@gmail.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
     "user_id": 20,
     "first_name": "Ole",
     "last_name": "Murphy",
@@ -165,22 +125,6 @@
     "last_name": "Torphy",
     "username": "andy.hills88",
     "email": "ava.hoppe@yahoo.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
-    "user_id": 22,
-    "first_name": "Modesto",
-    "last_name": "Senger",
-    "username": "matilda.goldner",
-    "email": "june.wunsch@yahoo.com",
-    "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
-  },
-  {
-    "user_id": 23,
-    "first_name": "Sam",
-    "last_name": "Block",
-    "username": "riley43",
-    "email": "kirsten_mraz1@hotmail.com",
     "password": "$2b$10$VeIFRBHiiDLvt5r3IzFtU.2oWeixv0LkKxiNIo7ovTBAdfrfsiowq"
   },
   {
